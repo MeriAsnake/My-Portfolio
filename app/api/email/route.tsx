@@ -65,7 +65,7 @@ export async function POST(req: Request): Promise<Response> {
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
         <div style="text-align: center; padding: 10px 0;">
           <h2 style="color: #2c3e50;">Hello from Meron Asnake!</h2>
-          <p style="font-size: 16px; color: #555;">Full Stack Devloper & Ui/Ux Devloper</p>
+          <p style="font-size: 16px; color: #555;">Full Stack Devloper & Ui/Ux Designer </p>
         </div>
         <div style="text-align: center; margin-top: 20px;">
           <p style="color: #666; font-size: 14px;">Thank you for reaching out! I appreciate your message and will respond soon.</p>
