@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  /* color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif; */
+}
+@keyframes slideRight {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-slide {
+  animation: slide linear infinite;
+}
+
+.infinite-scroll {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.infinite-scroll > * {
+  min-width: 25%; /* Adjust this value to control the number of visible items */
+}
