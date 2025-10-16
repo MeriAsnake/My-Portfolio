@@ -70,7 +70,7 @@ export default function AboutMe() {
           {/* About Text Section */}
           <div className="w-full sm:w-[70%] lg:w-[50%] text-left px-4 sm:px-8 text-justify">
           <p className="text-lg mb-4">
-  Full Stack Developer <span className="font-bold text-red-500">1+</span> years of hands-on experience in front-end devlopment and Ui/Ux design. Proficient in <span className="font-bold text-red-500">React.js,</span>, <span className="font-bold text-red-500">Next.js</span>, <span className="font-bold text-red-500">Python</span>, <span className="font-bold text-red-500">machine learning</span>, and <span className="font-bold text-red-500">LLM-based AI automation</span> with strong skills in creating visually appealing and intuitive interfaces . Experienced in <span className="font-bold text-red-500">Figma,Tailwind CSS, and Framer Motion</span>for building engaging user experiences that align with modern design principles.
+  Full Stack Developer <span className="font-bold text-red-500">1+</span> years of hands-on experience in front-end devlopment and Ui/Ux design. Proficient in <span className="font-bold text-red-500">React.js </span>, <span className="font-bold text-red-500">Next.js</span>, <span className="font-bold text-red-500">Python</span>, <span className="font-bold text-red-500">machine learning</span>, and <span className="font-bold text-red-500">LLM-based AI automation</span> with strong skills in creating visually appealing and intuitive interfaces . Experienced in <span className="font-bold text-red-500">Figma , Tailwind CSS, and Framer Motion</span> for building engaging user experiences that align with modern design principles.
 </p>
 
 

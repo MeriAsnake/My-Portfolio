@@ -109,7 +109,7 @@ export default function Header() {
   >
     <h2 className="text-base sm:text-lg md:text-xl text-400 font-extrabold">My name is</h2>
     <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-green-300">Meron Asnake</h1>
-    <p className="text-xl sm:text-2xl mt-2 font-extrabold">Front-End Devloper & Ui/Ux Designer </p>
+    <p className="text-xl sm:text-2xl mt-2 font-extrabold">Full-Stack Developer & Ui/Ux Designer </p>
     <h3 className="text-red-500 text-xl sm:text-2xl mt-2 font-extrabold">
       <Typewriter
         options={{ strings: ["Python", "Next.js", "React", "Ui/Ux design", "Machine Learning"], autoStart: true, loop: true }}
