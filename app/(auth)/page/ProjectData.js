@@ -92,7 +92,7 @@ const updatedProjectsData = [
           live: "",
           github: "",
           documentation: "",
-          img: "/shoes.jpeg"
+          img: "/xer.png"
         },
         time: "2024",
         location: "On Site",
